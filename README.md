@@ -4,7 +4,7 @@ I feel that doing so is a huge drain on the resources in a typical battery opera
 
 This project will implement the Control Data Cyber Ethernet DI, thus not only allowing the Pi to idle more, but to also have more resources available to the Raspian or bsd side, for actually doing things.
 
-One selectable Raspian/bsd, CDCNet, or DI Console port, initially, using the standard Pi serial console. Possibly similar to the sco virtial console switching?
+One selectable Raspian/bsd, CDCNet, or DI Console port, initially, using the standard Pi serial console; All three possibly similar to the SCO or screen(1) virtial console switching?
 
 Access to Pi pins and interfaces, with at least compass and ftn5 API. This will include SPI and I2C, as well as channel-wide I/O.
 
