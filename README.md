@@ -6,4 +6,4 @@ One selectable Raspian/bsd, CDCNet, or DI Console port,  initially.
 
 Access to Pi pins and interfaces.
 
-Access to USB??  Access to Bluetooth?
+Access to USB??  Access to Bluetooth??
