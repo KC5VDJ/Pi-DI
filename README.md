@@ -6,6 +6,6 @@ This project will implement the Control Data Cyber Ethernet DI, thus not only al
 
 One selectable Raspian/bsd, CDCNet, or DI Console port, initially, using the standard Pi serial console.
 
-Access to Pi pins and interfaces, with at least compass and ftn5 API.
+Access to Pi pins and interfaces, with at least compass and ftn5 API. This will include SPI and I2C, as well as channel-wide I/O.
 
 Access to USB??  Access to Bluetooth??  We'll see!!
