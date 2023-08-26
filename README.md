@@ -6,7 +6,7 @@ This project will implement the Control Data Cyber Ethernet DI, thus not only al
 
 One each selectable Raspian/bsd, CDCNet, or DI Console port, initially, using the standard Pi serial console; All three possibly similar to the SCO or screen(1) virtial console switching? Any / All can be enabled / disabled (headless = yes).
 
-Access to Pi pins and interfaces, with at least compass and ftn5 API. This will include SPI and I2C, as well as channel-wide I/O.
+Access to Pi pins and interfaces, with at least compass and ftn5 API. This will include SPI and I2C, as well as parallel channel-wide I/O.
 
 Three DI types will be supported, Version 1, Version 1 with 128k, Version 2 with 4M-16M in 4M increments.
 
