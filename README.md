@@ -8,4 +8,6 @@ One each selectable Raspian/bsd, CDCNet, or DI Console port, initially, using th
 
 Access to Pi pins and interfaces, with at least compass and ftn5 API. This will include SPI and I2C, as well as channel-wide I/O.
 
+Three DI types will be supported, Version 1, Version 1 with 128k, Version 2 with 4M-16M in 4M increments.
+
 Access to USB??  Access to Bluetooth??  We'll see!!
