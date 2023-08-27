@@ -1,4 +1,4 @@
-#Pi-DI
+# Pi-DI
 
 The Raspberry Pi Zero W can indeed run full DtCyber, yes.
 
