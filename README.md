@@ -12,4 +12,4 @@ Access to Pi pins and interfaces, with at least compass and ftn5 API. This will 
 
 Three DI types will be supported, Version 1, Version 1 with 128k, Version 2 with 4M-16M in 4M increments.
 
-Access to USB (at least HID (Anyone got a USB SpaceBall?))??  Access to Bluetooth??  We'll see!!
+Access to USB (at least HID (Anyone got a USB SpaceBall?))??  Access to Bluetooth??  We'll see!!  A 16 meg 68k/'030 emulator can do quite a bit.
